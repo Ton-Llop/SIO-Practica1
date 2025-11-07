@@ -54,4 +54,7 @@ L’exercici forma part de l’assignatura **Sistemes d’Informació en les Org
 
 Antoni Llop, Alfonso Sánchez
 
+## Nota final
+8,5/10
+
 
